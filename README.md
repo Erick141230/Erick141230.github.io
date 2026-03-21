@@ -1,4 +1,3 @@
-
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -71,7 +70,7 @@ img {
 
 <div class="container">
     <h1>Estas flores son para ti 🌻</h1>
-    <p>No son dibujadas... pero sí son para alguien que lo vale 😉</p>
+    <p>Te adoro mi cielito hermoso esta pagina es solo para ti mi vida</p>
     <p>Y sí... pensé en ti 💛</p>
 
     <img src="https://i.imgur.com/6X4KQZQ.png" alt="flores amarillas">
