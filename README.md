@@ -72,12 +72,11 @@ img {
     <h1>Estas flores son para ti 🌻</h1>
     <p>Te adoro mi cielito hermoso esta pagina es solo para ti mi vida</p>
     <p>Y sí... pensé en ti 💛</p>
-
+    <p>Aqui abajo va a estar el dibujo que tanto deseas</p>
     <img src="https://i.imgur.com/6X4KQZQ.png" alt="flores amarillas">
 </div>
 
 <script>
-// Generar flores cayendo 🌼
 function crearFlor() {
     const flor = document.createElement("div");
     flor.classList.add("flower");
