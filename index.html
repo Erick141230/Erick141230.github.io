@@ -21,13 +21,13 @@ body {
     overflow: hidden;
 }
 
-/* Contenedor centrado */
+
 .container {
     padding: 20px;
     max-width: 90%;
 }
 
-/* Texto adaptable */
+
 h1 {
     font-size: 2em;
     color: #b8860b;
@@ -41,7 +41,7 @@ p {
     animation: fadeIn 3s ease-in-out;
 }
 
-/* Imagen responsive */
+
 img {
     width: 80%;
     max-width: 260px;
@@ -49,7 +49,7 @@ img {
     animation: float 3s ease-in-out infinite;
 }
 
-/* Animaciones */
+
 @keyframes float {
     0% { transform: translateY(0px); }
     50% { transform: translateY(-10px); }
@@ -61,7 +61,7 @@ img {
     to { opacity: 1; }
 }
 
-/* Flores */
+
 .flower {
     position: absolute;
     top: -50px;
@@ -89,7 +89,7 @@ img {
 </div>
 
 <script>
-// Menos flores para que no lagee en celular
+
 function crearFlor() {
     const flor = document.createElement("div");
     flor.classList.add("flower");
@@ -105,7 +105,7 @@ function crearFlor() {
     }, 6000);
 }
 
-// 🔥 optimizado para móvil
+
 setInterval(crearFlor, 500);
 </script>
 
